@@ -1,0 +1,24 @@
+a {
+  color: darkblue;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 20px;
+  padding: 5px 2px;  
+  font-family: 'Times New Roman', Times, serif; 
+}
+
+.search{
+  width: 23%;
+  height: 20px;
+  position: relative;
+  left: 10px;
+  bottom: 3px;
+}
+
+li{
+  border: 1px solid black;
+  padding: 5px 3px;
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+}
